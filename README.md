@@ -12,6 +12,9 @@
 
   Repositório no GitHub: https://github.com/faubetten/Projeto-Semestre-5
 
+
+# Progressos semanais 
+
 | Nome   | Tarefa | Prazo   | Tempo         |
 |--------|-------|----------|---------------|
 | Silésio  | Criação da interface  | 30/09 até 05/10    | Por Fazer  |
