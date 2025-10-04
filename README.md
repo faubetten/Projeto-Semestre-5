@@ -10,4 +10,11 @@
 - Silésio - 20220618
 - Fausto - 20210819
 
-  Repositório no GitHub: https://github.com/faubetten/Projeto-Semestre-5 
+  Repositório no GitHub: https://github.com/faubetten/Projeto-Semestre-5
+
+| Nome   | Tarefa | Prazo   | Tempo         |
+|--------|-------|----------|---------------|
+| Silésio  | Criação da interface  | 30/09 até 05/10    | Por Fazer  |
+| Pedro Dias    | Documentação  | 30/09 até 05/10    | Por Fazer     |
+| Leonardo   | Documentação   | 30/09 até 05/10   | Por Fazer    |
+| Fausto  | Documentação    | 30/09 até 05/10     | Por Fazer       |
