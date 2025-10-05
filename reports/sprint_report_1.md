@@ -4,7 +4,7 @@
 Sprint Report 1 (28/09/25 - 05/10/25)
 
 
-Nome de Projeto: StudyHop
+Nome de Projeto: ConfAI
 
 
 ## Índice:
@@ -22,9 +22,11 @@ Nome de Projeto: StudyHop
 
 # Progressos semanais 
 
-| Nome   | Tarefa | Prazo   | Tempo         |
+| Tarefa   | Nome | Prazo   | Tempo         |
 |--------|-------|----------|---------------|
-| Silésio  | Criação da interface  | 30/09 até 05/10    | Por Fazer  |
-| Pedro Dias    | Documentação  | 30/09 até 05/10    | Por Fazer     |
-| Leonardo   | Documentação   | 30/09 até 05/10   | Por Fazer    |
-| Fausto  | Documentação    | 30/09 até 05/10     | Por Fazer       |
+| Criação da Mockups  | Silésio  | 30/09 até 05/10    | Completo  |
+| Documentação e relatório    | Pedro e Fausto | 30/09 até 05/10    | Completo     |
+|  Calenderização   |  Silésio  | 30/09 até 05/10   | Completo    |
+| Vídeo   |  Silésio   | 30/09 até 05/10     | Completo       |
+| Criação de Personas   |  Leonardo   | 30/09 até 05/10     | Completo       |
+| Sprint Report   |  Fausto   | 30/09 até 05/10     | Completo       |
