@@ -1,0 +1,12 @@
+-Documentar as fontes dos dados utilizados
+-Especificar o que falta no mercado e como a nossa aplicação vai remediar
+-Abordar mais na pesquisa de mercado
+-abordar mais os problemas e limitações 
+-Usar mais graficos 
+-fazer arquitetura de solução menos vaga
+-Interoperabilidade em requesitos
+-Abordar varios perfis de utilizadores (Stakeholders)
+-Incluir abstract, indice e conclusoes
+
+Apresentação
+-Incluir Metedologias e cenarios
