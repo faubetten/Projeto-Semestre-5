@@ -1,0 +1,15 @@
+version: '3.8'
+
+services:
+  confai-db:
+    image: postgres:16
+    container_name: confai_db
+    restart: always
+    environment:
+      POSTGRES_USER: confai_user
+      POSTGRES_PASSWORD: confai_pass
+      POSTGRES_DB: confai_db
+    ports:
+      - "5432:5432"
+    volumes:
+      - ./confai-data:/var/lib/postgresql/data
