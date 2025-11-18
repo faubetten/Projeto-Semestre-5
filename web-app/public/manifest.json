@@ -1,0 +1,51 @@
+{
+  "name": "confAI - Developer Events",
+  "short_name": "confAI",
+  "description": "Discover and create amazing developer events. Connect with communities and grow together.",
+  "theme_color": "#0ea5e9",
+  "background_color": "#0f172a",
+  "display": "standalone",
+  "start_url": "/",
+  "icons": [
+    {
+      "src": "/icons/android/android-launchericon-48-48.png",
+      "sizes": "72x72",
+      "type": "image/png",
+      "purpose": "maskable any"
+    },
+    {
+      "src": "/icons/android/android-launchericon-72-72.png",
+      "sizes": "96x96",
+      "type": "image/png",
+      "purpose": "maskable any"
+    },
+    {
+      "src": "/icons/android/android-launchericon-96-96.png",
+      "sizes": "128x128",
+      "type": "image/png",
+      "purpose": "maskable any"
+    },
+    {
+      "src": "/icons/android/android-launchericon-114-114.png",
+      "sizes": "144x144",
+      "type": "image/png",
+      "purpose": "maskable any"
+    },
+    {
+      "src": "/icons/android/android-launchericon-192-192.png",
+      "sizes": "152x152",
+      "type": "image/png",
+      "purpose": "maskable any"
+    },
+    {
+      "src": "/icons/android/android-launchericon-512-512.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "maskable any"
+    }
+  ],
+  "categories": ["business", "education", "social"],
+  "orientation": "any",
+  "scope": "/",
+  "lang": "en"
+}
