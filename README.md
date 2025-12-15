@@ -20,12 +20,6 @@
 
 
 
-
-
-
-
-10. Conclusão e Trabalho Futuro
-
 # Grupo
 
 - Pedro Dias - 20230038
