@@ -97,25 +97,34 @@ Diagrama de Classes
 # Arquitetura da Solução
 
 4.1 Visão Geral
+
 A arquitetura da ConfAI segue um modelo modular e escalável, baseado numa
 separação clara de responsabilidades entre frontend, backend, serviços externos e base
 de dados.
+
 4.2 Componentes Principais
+
 Frontend
 • Implementado com Next.js
 • Interface responsiva
 • Comunicação com backend via HTTPS
+
 Backend
+
 • API Routes em Next.js
 • Responsável por lógica de negócio, integração com IA e base de dados
  Componente de IA
 • OpenAI para processamento de linguagem natural
 • CSP para interpretação contextual e geração de filtros
 • Suporte a pesquisa semântica e híbrida
+
 Autenticação
+
 • Clerk para autenticação e gestão de sessões
 • OAuth e gestão segura de utilizadores
+
 Base de Dados
+
 • MongoDB
 • Armazenamento de eventos, utilizadores e embeddings semânticos
 
@@ -123,6 +132,7 @@ Base de Dados
 De forma a garantir consistência entre ambientes de desenvolvimento, teste e
 produção, o projeto recorre à utilização de Docker para a containerização dos
 principais componentes do sistema.
+
 A utilização de Docker permite encapsular a aplicação e as suas dependências
 num ambiente isolado, reduzindo problemas associados a diferenças de
 configuração entre máquinas e facilitando o processo de instalação e execução
