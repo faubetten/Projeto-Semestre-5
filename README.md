@@ -211,6 +211,7 @@ Redução de interações do utilizador	Significativa
 
 Os resultados demonstram que a utilização de IA melhora significativamente a experiência do utilizador, reduzindo o esforço necessário para encontrar eventos relevantes. No entanto, consultas altamente ambíguas ainda requerem refinamento adicional, o que representa uma oportunidade de melhoria futura.
 
+
 #	Segurança
 
 6.1	Autenticação e Autorização
