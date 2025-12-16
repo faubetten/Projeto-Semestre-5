@@ -168,6 +168,7 @@ Responsável pela interface do utilizador, API routes e lógica de negócio.
 Armazena dados de eventos, utilizadores e embeddings semânticos.
 
 • Integrações Externas:
+
 Serviços como OpenAI e Clerk são consumidos via APIs externas seguras, não
 sendo containerizados diretamente, mas integrados no fluxo da aplicação.
 A comunicação entre os containers é realizada através de uma rede interna
