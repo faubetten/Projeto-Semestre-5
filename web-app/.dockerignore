@@ -1,0 +1,50 @@
+# .dockerignore
+
+# Dependências do Node
+node_modules
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Build do Next.js
+.next
+.next/*
+.out
+
+# Configurações do Docker
+Dockerfile
+.dockerignore
+docker-compose.yml
+
+# Variáveis de ambiente
+.env*.local
+.env
+
+# Controle de versão
+.git
+.gitignore
+
+# Documentação
+README.md
+
+# Arquivos do sistema
+.DS_Store
+.thumbs.db
+
+# Logs
+logs
+*.log
+
+# Testes
+coverage
+.nyc_output
+
+# IDE/Editor
+.vscode
+.idea
+*.swp
+*.swo
+
+# PERMITIR estas pastas (não ignorar)
+!lib/
+!database/
