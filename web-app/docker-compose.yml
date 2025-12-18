@@ -1,0 +1,31 @@
+version: '3.8'
+services:
+  web:
+    build: .
+    ports:
+      - "3000:3000"
+    environment:
+<<<<<<< HEAD
+      - NEXT_PUBLIC_BASE_URL=http://localhost:3000
+      - MONGODB_URI=${MONGODB_URI}
+      - NEXT_PUBLIC_CLERK_PUBLISHABLE_KEY=${NEXT_PUBLIC_CLERK_PUBLISHABLE_KEY}
+=======
+      - MONGODB_URI=${MONGODB_URI}
+      - NEXT_PUBLIC_CLERK_PUBLISHABLE_KEY=${NEXT_PUBLIC_CLERK_PUBLISHABLE_KEY}
+      - NEXT_PUBLIC_BASE_URL=${NEXT_PUBLIC_BASE_URL}
+>>>>>>> 0aecb5e (securer config)
+      - CLOUDINARY_URL=${CLOUDINARY_URL}
+      - CLERK_SECRET_KEY=${CLERK_SECRET_KEY}
+      - OPENROUTER_API_KEY=${OPENROUTER_API_KEY}
+      - GROQ_API_KEY=${GROQ_API_KEY}
+    env_file:
+<<<<<<< HEAD
+      - .env
+    volumes:
+      - .:/app
+      - /app/node_modules
+      - /app/.next
+    restart: unless-stopped
+=======
+      - .env  # Carrega variáveis de um arquivo .env
+>>>>>>> 0aecb5e (securer config)
